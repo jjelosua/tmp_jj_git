@@ -9,5 +9,5 @@ Change to check upstream sync
 
 Change again to check upstream sync with modified changes in WD
 
->Hi there this pull request is going to be rejected...
+>Ok, this pull request will accepted right?
 
