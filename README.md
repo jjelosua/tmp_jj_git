@@ -3,4 +3,5 @@ Test project for git training
 
 Repo created for testing purposes over git collaboration
 
-Ammend first commit
+Amend first commit
+
